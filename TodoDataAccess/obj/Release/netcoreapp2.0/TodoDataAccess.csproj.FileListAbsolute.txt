@@ -1,0 +1,20 @@
+C:\Users\muadi\Desktop\TodoList\TodoDataAccess\bin\Release\netcoreapp2.0\todo.db
+C:\Users\muadi\Desktop\TodoList\TodoDataAccess\bin\Release\netcoreapp2.0\TodoDataAccess.deps.json
+C:\Users\muadi\Desktop\TodoList\TodoDataAccess\bin\Release\netcoreapp2.0\TodoDataAccess.dll
+C:\Users\muadi\Desktop\TodoList\TodoDataAccess\bin\Release\netcoreapp2.0\TodoDataAccess.pdb
+C:\Users\muadi\Desktop\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\muadi\Desktop\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\muadi\Desktop\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.AssemblyInfoInputs.cache
+C:\Users\muadi\Desktop\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.AssemblyInfo.cs
+C:\Users\muadi\Desktop\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.dll
+C:\Users\muadi\Desktop\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.pdb
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoDataAccess\bin\Release\netcoreapp2.0\todo.db
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoDataAccess\bin\Release\netcoreapp2.0\TodoDataAccess.deps.json
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoDataAccess\bin\Release\netcoreapp2.0\TodoDataAccess.dll
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoDataAccess\bin\Release\netcoreapp2.0\TodoDataAccess.pdb
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.AssemblyInfoInputs.cache
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.AssemblyInfo.cs
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.dll
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoDataAccess\obj\Release\netcoreapp2.0\TodoDataAccess.pdb

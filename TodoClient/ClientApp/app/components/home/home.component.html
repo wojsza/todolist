@@ -1,0 +1,31 @@
+<div class="todolist">
+
+    <h1>Todo List</h1>
+
+    <p *ngIf="!activitieslist"><em>Loading...</em></p>
+
+    <input class="form-control" [formControl]="name" placeholder="What needs to be done?" (keyup.enter)="submitTask()" />
+
+    <br>
+
+    <table class='table' *ngIf="activitieslist">
+        <tbody>
+            <tr *ngFor="let activity of activitieslist.activieties | status:status">
+                <td><input type="checkbox" [(ngModel)]="activity.isCompleted" (change)="completeTask(activity)" class="checkbox" /></td>
+                <td><div class='done-{{activity.isCompleted}}'>{{ activity.name }}</div></td>                
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div id="todofooter">
+    <div id="todofilter">
+        <a (click)="statusFilter('Completed')" class="btn btn-info">Completed</a>
+        <a (click)="statusFilter('Active')" class="btn btn-info">Active</a>
+        <a (click)="statusFilter('All')" class="btn btn-info">All</a>
+    </div>
+    <div id="todoclear"><a (click)="clearCompleted()" class="btn btn-warning">Clear completed : {{countCompleted()}}</a></div>
+    <div id="todoactive"><input readonly class="form-control" value="{{countActive()}} items left" /></div>
+</div>
+
+

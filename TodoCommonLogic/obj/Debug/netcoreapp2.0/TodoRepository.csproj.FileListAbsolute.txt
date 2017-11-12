@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\bin\Debug\netcoreapp2.0\TodoRepository.deps.json
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\bin\Debug\netcoreapp2.0\TodoRepository.dll
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\bin\Debug\netcoreapp2.0\TodoRepository.pdb
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\obj\Debug\netcoreapp2.0\TodoRepository.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\obj\Debug\netcoreapp2.0\TodoRepository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\obj\Debug\netcoreapp2.0\TodoRepository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\obj\Debug\netcoreapp2.0\TodoRepository.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\obj\Debug\netcoreapp2.0\TodoRepository.dll
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\obj\Debug\netcoreapp2.0\TodoRepository.pdb
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\bin\Debug\netcoreapp2.0\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\bin\Debug\netcoreapp2.0\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\bin\Debug\netcoreapp2.0\pl\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\bin\Debug\netcoreapp2.0\TodoDataAccess.dll
+C:\Users\Administrator\Desktop\TodoList\TodoRepository\bin\Debug\netcoreapp2.0\TodoDataAccess.pdb

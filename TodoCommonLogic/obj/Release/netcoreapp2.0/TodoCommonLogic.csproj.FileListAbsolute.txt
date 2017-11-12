@@ -1,0 +1,30 @@
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\todo.db
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\TodoCommonLogic.deps.json
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\TodoCommonLogic.dll
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\TodoCommonLogic.pdb
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\System.Web.Mvc.dll
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\TodoDataAccess.dll
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\TodoDataAccess.pdb
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\System.Web.Mvc.xml
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\pl\System.Web.Mvc.resources.dll
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.csprojResolveAssemblyReference.cache
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.csproj.CoreCompileInputs.cache
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.AssemblyInfoInputs.cache
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.AssemblyInfo.cs
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.dll
+C:\Users\muadi\Desktop\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.pdb
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\todo.db
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\TodoCommonLogic.deps.json
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\TodoCommonLogic.dll
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\TodoCommonLogic.pdb
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\System.Web.Mvc.dll
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\TodoDataAccess.dll
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\TodoDataAccess.pdb
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\System.Web.Mvc.xml
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\bin\Release\netcoreapp2.0\pl\System.Web.Mvc.resources.dll
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.csprojResolveAssemblyReference.cache
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.csproj.CoreCompileInputs.cache
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.AssemblyInfoInputs.cache
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.AssemblyInfo.cs
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.dll
+C:\Users\muadi\onedrive\documents\dokumenty\visual studio 2017\Projects\TodoList\TodoCommonLogic\obj\Release\netcoreapp2.0\TodoCommonLogic.pdb
